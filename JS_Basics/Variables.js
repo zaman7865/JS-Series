@@ -5,7 +5,7 @@ accountCity = "Kasur"
 let accountState;  //give undefined output
 
 /*
-Prefer not to use var var bcz of issue in block scope & functional scope
+Prefer not to use var bcz of issue in block scope & functional scope
 */
 
 // accountId = 2 // not allowed
